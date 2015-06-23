@@ -1,1 +1,1 @@
-create database 'testingthis';
+create database testingthis;
